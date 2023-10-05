@@ -10,11 +10,6 @@ Apoiar a instituição com a reprodução do case BBB23 desenvolvendo os alunos 
 Criação de infraestrutura que suporte altos níveis de requisições/acessos ao site no momento das inserções publicitárias da empresa no Big Brother Brasil.
 
 
-## 🧩 O público-alvo:
-
-...
-
-
 ## 💻 Aplicações escaláveis em sistemas distribuídos: 
 
 - Grupo 1 
