@@ -13,16 +13,23 @@ Criação de infraestrutura que suporte altos níveis de requisições/acessos a
 ## 💻 Aplicações escaláveis em sistemas distribuídos: 
 
 - Grupo 1 
-  - Link do repositório: https://github.com/2023M7T1-Inteli/Grupo-1
+  - Link do repositório: https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-1
 
 - Grupo 2 
-  - Link do repositório: https://github.com/2023M7T1-Inteli/Grupo-2
+  - Link do repositório: https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-2
 
 - Grupo 3 - Ton Store
-  - Link do repositório: https://github.com/2023M7T1-Inteli/Grupo-3
+  - Link do repositório: https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-3
 
 - Grupo 4 - Stonks
-  - Link do repositório: https://github.com/2023M7T1-Inteli/Grupo-4
+  - Link do repositório: https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-4
 
 - Grupo 5 
-  - Link do repositório: https://github.com/2023M7T1-Inteli/Grupo-5
+  - Link do repositório: https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-5
+
+
+
+
+
+
+
